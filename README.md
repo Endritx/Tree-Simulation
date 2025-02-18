@@ -1,6 +1,6 @@
 # 3D Tree Growth Simulation with Rain Effect
 
-This project showcases a simple 3D tree growth simulation using Three.js, combined with a rain effect and rain sound. The tree grows and shrinks dynamically while the rain falls and triggers a sound. The rain and sound can be controlled with a "Start to Rain" button, and the rain can be stopped using the "Stop the Rain" button (if you re-enable it).
+This project showcases a simple 3D tree growth simulation using Three.js, combined with a rain effect and rain sound. The tree grows and shrinks dynamically while the rain falls and triggers a sound. The rain and sound can be controlled with a "Start to Rain" button.
 
 ## Features
 
