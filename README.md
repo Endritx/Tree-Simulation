@@ -8,7 +8,7 @@ This project showcases a simple 3D tree growth simulation using Three.js, combin
 - **Dynamic Tree Growth**: The tree grows and shrinks based on the proximity of raindrops.
 - **Rain Effect**: Simulated rain with falling raindrops rendered as particles.
 - **Rain Sound**: A background sound of rain that loops when activated.
-- **Start/Stop Rain Control**: Buttons to start and stop the rain and the sound.
+- **Start Rain Control**: Button to start the rain and the sound.
 
 ## Technologies Used
 
@@ -25,4 +25,4 @@ To run this project locally, follow these steps:
 Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/tree-growth-simulation.git
+git clone https://github.com/your-username/tree--simulation.git
