@@ -25,4 +25,4 @@ To run this project locally, follow these steps:
 Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/tree--simulation.git
+git clone https://github.com/Endritx/Tree-Simulation.git
